@@ -13,13 +13,3 @@
 # UI Preview
 
 ![](https://i.imgur.com/x2UiJDM.gif)
-(https://img.shields.io/github/release/pandao/editor.md.svg) 
-
-
-**SELECT VIEWPOINT**
-
-[TOCM]
-
-[TOC]
-
-
