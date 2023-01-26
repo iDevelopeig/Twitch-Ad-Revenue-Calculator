@@ -7,3 +7,6 @@ It simplifies the process of calculating earnings and allows you to make informe
 user-friendly interface that makes it easy to use, even for those who are not familiar with programming.
 With this calculator, you can input your estimated ad revenue and view the results in real-time.
 detailed breakdown of your earnings, allowing you to see how much you are earning per ad, per hour, and per day.
+
+
+- INSTALL REQUIREMENTS - 
