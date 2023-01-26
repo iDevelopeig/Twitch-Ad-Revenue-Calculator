@@ -1,0 +1,11 @@
+"By accessing the Twitch-Ad-Revenue-Calculator repository on GitHub, you agree to the following terms of service:
+
+The Twitch-Ad-Revenue-Calculator is intended for personal use and should not be used for commercial purposes.
+The calculator is provided as-is and we do not guarantee its accuracy or suitability for any particular purpose.
+We will not be liable for any damages resulting from the use of the calculator.
+You are responsible for ensuring that your use of the calculator complies with all applicable laws and regulations.
+Any unauthorized use of the calculator, including but not limited to commercial use, is strictly prohibited.
+We reserve the right to modify these terms of service at any time without notice.
+Your use of the repository constitutes acceptance of these terms of service."
+
+- INSTALL REQUIREMENTS - 
